@@ -5,6 +5,7 @@ __d = document;
  *
  * @param {*} JSONBody
  * @param {*} ExpiresTime
+ * @description {data},2024/1/6,11.22.12
  * @returns cookie
  */
 const doingCookie = (JSONBody, ExpiresTime) => {
